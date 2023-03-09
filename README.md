@@ -1,8 +1,22 @@
-# SISTEMA DE CADASTRO DE JOGOS #
+# SISTEMA DE CADASTRO DE JOGOS 
 
-> Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua maquina, por favor digite:
-````
-npm install
-````
+# Resumo do projeto
+
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
+
+## 🔨 Funcionalidades do projeto
+
+- `Funcionalidade 1` :construction: em construção  :construction:
+
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+-  :construction: em construção  :construction: 
+
+
+## 📁 Acesso ao projeto
+- :construction: em construção  :construction: 
