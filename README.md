@@ -15,7 +15,10 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
--  :construction: em construção  :construction: 
+-  :construction: em construção  :construction:
+```
+node app.js
+``` 
 
 
 ## 📁 Acesso ao projeto
