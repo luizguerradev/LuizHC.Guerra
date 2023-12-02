@@ -1,5 +1,4 @@
-# SISTEMA DE CADASTRO DE JOGOS 
-
+# MEU PORTFOLIO 
 
 # Resumo do projeto
 
@@ -17,7 +16,9 @@
 
 -  :construction: em construção  :construction:
 ```
-node app.js
+HTML
+CSS
+JAVASCRIPT
 ``` 
 
 
