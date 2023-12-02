@@ -1,26 +1,23 @@
 # MEU PORTFOLIO 
 
-# Resumo do projeto
+## Resumo do projeto
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+<h4 align="center">
+Juntar meus projetos todos num ambiente para facilitar o reconhecimento das minhas habilidades assim como minha evolução, dedicação e meus conhecimentos durante a minha carreira.
 </h4>
 
 
-## 🔨 Funcionalidades do projeto
+### 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1` :construction: em construção  :construction:
+- em construção  
 
+### ✔️ Técnicas e tecnologias utilizadas
 
-## ✔️ Técnicas e tecnologias utilizadas
-
--  :construction: em construção  :construction:
 ```
 HTML
 CSS
 JAVASCRIPT
-``` 
+```
 
-
-## 📁 Acesso ao projeto
-- :construction: em construção  :construction: 
+### 📁Acesso ao projeto
+- em construção
